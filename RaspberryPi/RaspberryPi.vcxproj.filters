@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include=".gitignore" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="GPIOClass.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
